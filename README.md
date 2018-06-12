@@ -1,5 +1,5 @@
 # Udacity Project 1 - Portfolio Site
-This is the first project for Udacity Front-End Web Developer Nanodegree Program
+This is the first project for Udacity Front-End Web Developer Nanodegree Program.
 
 ## Project Demo 
 
